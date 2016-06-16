@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"waring.obj" 
+TO "Waring" 
+NOMAP 
+RAMSIZE(256) 
